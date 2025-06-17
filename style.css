@@ -33,7 +33,9 @@ body {
 .main-content {
   margin-left: 270px;
   padding: 30px;
+  max-width: 900px;
 }
+
 
 h1 {
   font-size: 36px;
